@@ -1,4 +1,10 @@
 - [ ] Why would you use class component over function components (removing hooks from the question)?
+    -No not unless it was mandated
 - [ ] Name three lifecycle methods and their purposes.
+    -Mounting - the start of everything
+    -Update - adding everything
+    -Unmount - killing everything
 - [ ] What is the purpose of a custom hook?
+    - To build out tool sets to use in other components 
 - [ ] Why is it important to test our apps?
+    - so every action is predictable and shit doesnt explode in production
